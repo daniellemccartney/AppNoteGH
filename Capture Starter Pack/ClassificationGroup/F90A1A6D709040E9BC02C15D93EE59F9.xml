@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ClassificationGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>F90A1A6D709040E9BC02C15D93EE59F9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>27</Version>
+    <Name>Capture Starter Pack</Name>
+  </Identity>
+  <Name>Capture Starter Pack</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>false</IsShared>
+  <Category>
+    <Id>CF4E7FA832494FDAB308A3CDBC3D9C74</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Capture Starter Pack</Name>
+  </Category>
+  <DocumentGroups>
+    <DocumentGroupIdentity>
+      <Id>3CC8EEE043EE437DA29839C6D9761C20</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>31</Version>
+      <Name>Capture Starter Pack</Name>
+    </DocumentGroupIdentity>
+  </DocumentGroups>
+  <LastModifiedDate>2019-08-30T14:44:38.383</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>C3F3EC2B3DDD4C2ABF7765894592366A</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
+  <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>NoAccess</ResourcePermissionType>
+</ClassificationGroup>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FolderType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>D33E1FA913B2451A890DD789E1C329DD</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Version>4</Version>
+    <Name>Capture Starter Pack</Name>
+  </Identity>
+  <Name>Capture Starter Pack</Name>
+  <Description />
+  <Status>Released</Status>
+  <Category>
+    <Id>CF4E7FA832494FDAB308A3CDBC3D9C74</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Capture Starter Pack</Name>
+  </Category>
+  <LastModifiedDate>2016-02-26T15:48:09.847</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>8AF1310A013DE94889D5EAECD53F99E4</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <FieldGroups>
+    <FieldGroup>
+      <Identity>
+        <Id>64023D884F7A499AA95643878FFB7B18</Id>
+      </Identity>
+      <Name>Capture Starter Pack</Name>
+      <Fields>
+        <CaptureField xsi:type="SimpleField">
+          <Identity>
+            <Id>8E29E5FA5343474BB5185642AFC4FF50</Id>
+            <Name />
+          </Identity>
+          <Name>Process</Name>
+          <DisplayName>Process</DisplayName>
+          <Description />
+          <FieldType>Text</FieldType>
+          <Validators />
+          <Formatter>
+            <Id />
+            <Name />
+          </Formatter>
+          <Verification>
+            <IsVerificationDisplayField>false</IsVerificationDisplayField>
+            <VerificationMode>Confirm</VerificationMode>
+            <CanChangeFieldValue>true</CanChangeFieldValue>
+            <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+          </Verification>
+          <IsInherited>false</IsInherited>
+          <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+          <AlwaysValid>false</AlwaysValid>
+          <IsOverridden>false</IsOverridden>
+          <IsFormatterOverridden>false</IsFormatterOverridden>
+          <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+          <Editable>false</Editable>
+          <IsOptional>false</IsOptional>
+          <FormatterInputs />
+          <FieldGroupName />
+          <FieldGroupId />
+          <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+          <AllFieldChanges>false</AllFieldChanges>
+          <MaskValueInAnalytics>false</MaskValueInAnalytics>
+          <MaskImageForHiddenField>false</MaskImageForHiddenField>
+          <IsPredefinedColumn>false</IsPredefinedColumn>
+          <DefaultValue xsi:type="xsd:string">Capture Starter Pack</DefaultValue>
+          <ChoiceItemsSource />
+          <Lookup />
+          <IsDefaultValueOverridden>false</IsDefaultValueOverridden>
+        </CaptureField>
+      </Fields>
+      <ResourceACL>
+        <ResourceIdentity>
+          <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Name>Everyone</Name>
+          <ResourceType>GroupOfWorkers</ResourceType>
+          <EmailAddress />
+          <UserId />
+          <ManagerialLevel>0</ManagerialLevel>
+        </ResourceIdentity>
+      </ResourceACL>
+      <ImageRedactionZones />
+      <IsInherited>false</IsInherited>
+      <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+    </FieldGroup>
+  </FieldGroups>
+  <FieldValidators />
+  <FolderValidatorCollection />
+  <ChildFolderTypes />
+  <NameTemplate>[FolderName]</NameTemplate>
+  <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+  <Forms>
+    <ScanForm>
+      <Id>1F0D0479D3B944B8B811442883B45BAC</Id>
+      <AutomaticallyPopulate>false</AutomaticallyPopulate>
+      <Name>CaptureStarterPack_Scan</Name>
+      <Version>0</Version>
+    </ScanForm>
+    <ValidationForm>
+      <Id />
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>0</Version>
+    </ValidationForm>
+    <VerificationForm>
+      <Id />
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>0</Version>
+    </VerificationForm>
+    <DocumentReviewForm>
+      <Id />
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>0</Version>
+    </DocumentReviewForm>
+  </Forms>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</FolderType>
