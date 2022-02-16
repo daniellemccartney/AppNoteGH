@@ -2,55 +2,6 @@
 <ArrayOfDocumentTypeVariant xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DocumentTypeVariant>
     <VariantIdentity>
-      <Id>E58B192D6AC34DC9AEE60B4C950174BF</Id>
-      <Version>1</Version>
-      <Name>Northwest_Variant1</Name>
-    </VariantIdentity>
-    <Description />
-    <DocTypeIdentity>
-      <Id>954E417148294312B4FE6452BE25FE48</Id>
-      <Version>31</Version>
-      <Name />
-    </DocTypeIdentity>
-    <IgnoredFields>
-      <VariantField>
-        <Id>E9291485E8014670887A40811137C555</Id>
-        <Name>LineItems</Name>
-        <IgnoredColumns />
-        <Masked>false</Masked>
-        <MaskedColumns />
-      </VariantField>
-      <VariantField>
-        <Id>C1B4B0344971497B92EB6920C1B21186</Id>
-        <Name>OrderDate</Name>
-        <IgnoredColumns />
-        <Masked>false</Masked>
-        <MaskedColumns />
-      </VariantField>
-      <VariantField>
-        <Id>2C4471B3344E497CB2750C1C42F90CD7</Id>
-        <Name>CardType</Name>
-        <IgnoredColumns />
-        <Masked>false</Masked>
-        <MaskedColumns />
-      </VariantField>
-    </IgnoredFields>
-    <ActivityVariants />
-    <ValidFrom xsi:nil="true" />
-    <LastModifiedDateTime>2022-02-01T12:28:45.657</LastModifiedDateTime>
-    <LastModifiedByUser>1E2C8C813CC54E1C8C31C9AD04DF4520</LastModifiedByUser>
-    <LockedBy>
-      <Id>1E2C8C813CC54E1C8C31C9AD04DF4520</Id>
-      <AutomaticallyPopulate>true</AutomaticallyPopulate>
-      <Name />
-      <ResourceType>Worker</ResourceType>
-      <EmailAddress />
-      <UserId />
-      <ManagerialLevel>0</ManagerialLevel>
-    </LockedBy>
-  </DocumentTypeVariant>
-  <DocumentTypeVariant>
-    <VariantIdentity>
       <Id>AD02A424E7FD42C59539FB6CE04810A1</Id>
       <Version>1</Version>
       <Name>Tri-Spectrum_Variant1</Name>
