@@ -18,12 +18,22 @@
   <LastModifiedUser>
     <Id>8AF1310A013DE94889D5EAECD53F99E4</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>1E2C8C813CC54E1C8C31C9AD04DF4520</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>tsadmin</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <FieldGroups>
     <FieldGroup>
       <Identity>
