@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <CaptureVerificationActivityForm xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <DBVersion>7.10</DBVersion>
+  <DBVersion>7.900000</DBVersion>
   <FormType>CaptureVerificationActivityForm</FormType>
   <FormIdentity>
     <Id>90653B18C9BA4EBFBAE26113921400CD</Id>
@@ -1929,6 +1929,15 @@
   <Language>base</Language>
   <DisplayRules />
   <CalculationRules />
+  <LockedBy>
+    <Id>1E2C8C813CC54E1C8C31C9AD04DF4520</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
   <RefreshInterval>0</RefreshInterval>
   <BackgroundColor>#FFFFFFFF</BackgroundColor>
   <ErrorLocation>Default</ErrorLocation>
